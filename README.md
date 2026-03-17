@@ -99,4 +99,4 @@ As tabelas criadas incluem: **users** (dados de autenticação / perfil) e **tra
 
 ## 📄 Licença
 
-Projeto de uso ducacional.
+Projeto de uso educacional.
